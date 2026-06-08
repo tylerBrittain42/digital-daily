@@ -9,3 +9,5 @@ https://docs.nestjs.com/first-steps
 
 # Controllers
 - Controllers are responsible for handling incoming requests and sending responses back to the client.
+ 
+pausing here https://docs.nestjs.com/controllers
