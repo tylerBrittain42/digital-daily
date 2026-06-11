@@ -10,4 +10,18 @@ https://docs.nestjs.com/first-steps
 # Controllers
 - Controllers are responsible for handling incoming requests and sending responses back to the client.
  
-pausing here https://docs.nestjs.com/controllers
+# Providers
+- A provider is anything that is injectable by the framework
+    - ex: service
+
+# Plan of attack
+## High level
+1. Set up middleware logging
+1. Configure daily
+1. Configure others(uncertain of order)
+    1. Configure today
+    1. Configure this week
+    1. Configure soon
+    1. Configure appointment
+1. Add basic auth
+1. create ugly ui
