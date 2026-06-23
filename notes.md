@@ -18,6 +18,9 @@ https://docs.nestjs.com/first-steps
 ## High level
 1. Set up middleware logging
 1. Configure daily
+    1. Just get a feel for the setup(don't worry about db)
+    1. Configure DB: https://docs.docker.com/guides/databases/
+1. Dev container?
 1. Configure others(uncertain of order)
     1. Configure today
     1. Configure this week
