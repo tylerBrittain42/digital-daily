@@ -17,6 +17,7 @@ https://docs.nestjs.com/first-steps
 # Plan of attack
 ## High level
 1. Set up middleware logging
+### DONE
 1. Configure daily
     1. Just get a feel for the setup(don't worry about db)
     1. Configure DB: https://docs.docker.com/guides/databases/
